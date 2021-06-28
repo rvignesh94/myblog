@@ -13,3 +13,8 @@ navigate to the cloned directory and use the following command
 python manage.py runserver
 
 and use the url given by the server to see the website
+
+
+### Screenshot
+
+![alt text](https://github.com/rvignesh94/myblog/blob/main/Screenshot%202021-06-29%20022355.jpg)
